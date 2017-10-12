@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include<math.h>
 #include <stdlib.h>
-main(void)
+int main()
 {
 
     double a, x, G, F, Y;
     int q;
-    float mas1[40],mas2[40];
+    
     printf("Добро пожаловать в lab03\n");
     do
     {
